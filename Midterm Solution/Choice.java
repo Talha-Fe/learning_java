@@ -2,6 +2,13 @@ package grading_2024_3_midterm_1_g1;
 
 import java.util.*;
 
+//    __  .__  .__    .__                      
+//  _/  |_|  | |  |__ |__|______  ____   ____  
+//  \   __\  | |  |  \|  \_  __ \/  _ \ /    \ 
+//   |  | |  |_|   Y  \  ||  | \(  <_> )   |  \
+//   |__| |____/___|  /__||__|   \____/|___|  /
+//                  \/                      \/ 
+
 public class Choice {
 
 	public static void main(String args[]) {
